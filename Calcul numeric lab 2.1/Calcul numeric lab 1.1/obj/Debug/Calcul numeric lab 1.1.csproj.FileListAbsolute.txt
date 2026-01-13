@@ -1,0 +1,7 @@
+C:\Users\hotid\source\repos\Calcul numeric lab 1.1\Calcul numeric lab 1.1\bin\Debug\Calcul numeric lab 1.1.exe.config
+C:\Users\hotid\source\repos\Calcul numeric lab 1.1\Calcul numeric lab 1.1\bin\Debug\Calcul numeric lab 1.1.exe
+C:\Users\hotid\source\repos\Calcul numeric lab 1.1\Calcul numeric lab 1.1\bin\Debug\Calcul numeric lab 1.1.pdb
+C:\Users\hotid\source\repos\Calcul numeric lab 1.1\Calcul numeric lab 1.1\obj\Debug\Calcul numeric lab 1.1.csproj.AssemblyReference.cache
+C:\Users\hotid\source\repos\Calcul numeric lab 1.1\Calcul numeric lab 1.1\obj\Debug\Calcul numeric lab 1.1.csproj.CoreCompileInputs.cache
+C:\Users\hotid\source\repos\Calcul numeric lab 1.1\Calcul numeric lab 1.1\obj\Debug\Calcul numeric lab 1.1.exe
+C:\Users\hotid\source\repos\Calcul numeric lab 1.1\Calcul numeric lab 1.1\obj\Debug\Calcul numeric lab 1.1.pdb

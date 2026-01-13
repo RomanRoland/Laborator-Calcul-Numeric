@@ -1,0 +1,8 @@
+C:\Users\Roly\source\repos\calculnumericlab4\calculnumericlab4\bin\Debug\calculnumericlab4.exe.config
+C:\Users\Roly\source\repos\calculnumericlab4\calculnumericlab4\bin\Debug\calculnumericlab4.exe
+C:\Users\Roly\source\repos\calculnumericlab4\calculnumericlab4\bin\Debug\calculnumericlab4.pdb
+C:\Users\Roly\source\repos\calculnumericlab4\calculnumericlab4\obj\Debug\calculnumericlab4.csproj.AssemblyReference.cache
+C:\Users\Roly\source\repos\calculnumericlab4\calculnumericlab4\obj\Debug\calculnumericlab4.csproj.CoreCompileInputs.cache
+C:\Users\Roly\source\repos\calculnumericlab4\calculnumericlab4\obj\Debug\calculnumericlab4.exe
+C:\Users\Roly\source\repos\calculnumericlab4\calculnumericlab4\obj\Debug\calculnumericlab4.pdb
+C:\Users\Roly\source\repos\calculnumericlab4\calculnumericlab4\obj\Debug\calculnumericlab4.exe.config

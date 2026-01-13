@@ -1,0 +1,7 @@
+C:\Users\hotid\source\repos\Lab calcul n umeric 8\Lab calcul n umeric 8\bin\Debug\Lab calcul n umeric 8.exe.config
+C:\Users\hotid\source\repos\Lab calcul n umeric 8\Lab calcul n umeric 8\bin\Debug\Lab calcul n umeric 8.exe
+C:\Users\hotid\source\repos\Lab calcul n umeric 8\Lab calcul n umeric 8\bin\Debug\Lab calcul n umeric 8.pdb
+C:\Users\hotid\source\repos\Lab calcul n umeric 8\Lab calcul n umeric 8\obj\Debug\Lab calcul n umeric 8.csproj.AssemblyReference.cache
+C:\Users\hotid\source\repos\Lab calcul n umeric 8\Lab calcul n umeric 8\obj\Debug\Lab calcul n umeric 8.csproj.CoreCompileInputs.cache
+C:\Users\hotid\source\repos\Lab calcul n umeric 8\Lab calcul n umeric 8\obj\Debug\Lab calcul n umeric 8.exe
+C:\Users\hotid\source\repos\Lab calcul n umeric 8\Lab calcul n umeric 8\obj\Debug\Lab calcul n umeric 8.pdb
