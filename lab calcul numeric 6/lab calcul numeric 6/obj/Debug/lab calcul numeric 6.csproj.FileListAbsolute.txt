@@ -1,0 +1,8 @@
+C:\Users\Roly\source\repos\lab calcul numeric 6\lab calcul numeric 6\bin\Debug\lab calcul numeric 6.exe.config
+C:\Users\Roly\source\repos\lab calcul numeric 6\lab calcul numeric 6\bin\Debug\lab calcul numeric 6.exe
+C:\Users\Roly\source\repos\lab calcul numeric 6\lab calcul numeric 6\bin\Debug\lab calcul numeric 6.pdb
+C:\Users\Roly\source\repos\lab calcul numeric 6\lab calcul numeric 6\obj\Debug\lab calcul numeric 6.csproj.AssemblyReference.cache
+C:\Users\Roly\source\repos\lab calcul numeric 6\lab calcul numeric 6\obj\Debug\lab calcul numeric 6.csproj.CoreCompileInputs.cache
+C:\Users\Roly\source\repos\lab calcul numeric 6\lab calcul numeric 6\obj\Debug\lab calcul numeric 6.exe
+C:\Users\Roly\source\repos\lab calcul numeric 6\lab calcul numeric 6\obj\Debug\lab calcul numeric 6.pdb
+C:\Users\Roly\source\repos\lab calcul numeric 6\lab calcul numeric 6\obj\Debug\lab calcul numeric 6.exe.config

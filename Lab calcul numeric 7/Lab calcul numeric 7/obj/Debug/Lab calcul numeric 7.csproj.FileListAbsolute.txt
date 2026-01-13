@@ -1,0 +1,7 @@
+C:\Users\hotid\source\repos\Lab calcul numeric 7\Lab calcul numeric 7\bin\Debug\Lab calcul numeric 7.exe.config
+C:\Users\hotid\source\repos\Lab calcul numeric 7\Lab calcul numeric 7\bin\Debug\Lab calcul numeric 7.exe
+C:\Users\hotid\source\repos\Lab calcul numeric 7\Lab calcul numeric 7\bin\Debug\Lab calcul numeric 7.pdb
+C:\Users\hotid\source\repos\Lab calcul numeric 7\Lab calcul numeric 7\obj\Debug\Lab calcul numeric 7.csproj.AssemblyReference.cache
+C:\Users\hotid\source\repos\Lab calcul numeric 7\Lab calcul numeric 7\obj\Debug\Lab calcul numeric 7.csproj.CoreCompileInputs.cache
+C:\Users\hotid\source\repos\Lab calcul numeric 7\Lab calcul numeric 7\obj\Debug\Lab calcul numeric 7.exe
+C:\Users\hotid\source\repos\Lab calcul numeric 7\Lab calcul numeric 7\obj\Debug\Lab calcul numeric 7.pdb
