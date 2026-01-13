@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab Calcul numeric 11", "Lab Calcul numeric 11\Lab Calcul numeric 11.csproj", "{24BBE4BA-6BB3-4063-A8EE-8E0E383F8531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24BBE4BA-6BB3-4063-A8EE-8E0E383F8531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BBE4BA-6BB3-4063-A8EE-8E0E383F8531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BBE4BA-6BB3-4063-A8EE-8E0E383F8531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BBE4BA-6BB3-4063-A8EE-8E0E383F8531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4E802C-6F8B-4095-A57B-E52947776D63}
+	EndGlobalSection
+EndGlobal

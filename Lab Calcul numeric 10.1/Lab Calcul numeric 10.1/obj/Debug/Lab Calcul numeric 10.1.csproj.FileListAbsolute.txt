@@ -1,0 +1,7 @@
+C:\Users\hotid\source\repos\Lab Calcul numeric 10.1\Lab Calcul numeric 10.1\bin\Debug\Lab Calcul numeric 10.1.exe.config
+C:\Users\hotid\source\repos\Lab Calcul numeric 10.1\Lab Calcul numeric 10.1\bin\Debug\Lab Calcul numeric 10.1.exe
+C:\Users\hotid\source\repos\Lab Calcul numeric 10.1\Lab Calcul numeric 10.1\bin\Debug\Lab Calcul numeric 10.1.pdb
+C:\Users\hotid\source\repos\Lab Calcul numeric 10.1\Lab Calcul numeric 10.1\obj\Debug\Lab Calcul numeric 10.1.csproj.AssemblyReference.cache
+C:\Users\hotid\source\repos\Lab Calcul numeric 10.1\Lab Calcul numeric 10.1\obj\Debug\Lab Calcul numeric 10.1.csproj.CoreCompileInputs.cache
+C:\Users\hotid\source\repos\Lab Calcul numeric 10.1\Lab Calcul numeric 10.1\obj\Debug\Lab Calcul numeric 10.1.exe
+C:\Users\hotid\source\repos\Lab Calcul numeric 10.1\Lab Calcul numeric 10.1\obj\Debug\Lab Calcul numeric 10.1.pdb
